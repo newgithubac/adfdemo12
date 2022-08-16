@@ -1,0 +1,9 @@
+{
+	"name": "developfactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "2c724f5b-0edd-4d37-af0a-f9b13c2e6a8f",
+		"tenantId": "fb1834f6-c5bd-4dd4-8ed1-1f8b2d2ac218"
+	}
+}
